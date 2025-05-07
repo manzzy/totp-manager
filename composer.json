@@ -1,5 +1,5 @@
 {
-    "name": "ugw/totp-manager",
+    "name": "manzzy/totp-manager",
     "description": "TOTP QR code generator and validator",
     "type": "library",
     "license": "MiT",
