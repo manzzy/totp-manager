@@ -1,0 +1,22 @@
+{
+    "name": "ugw/totp-manager",
+    "description": "TOTP QR code generator and validator",
+    "type": "library",
+    "license": "MiT",
+    
+    "autoload": {
+        "psr-4": {
+            "ugw\\TOTPManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "m.girma",
+            "email": "mikegirma82@gmail.com"
+        }
+    ],
+    "require": {
+        "spomky-labs/otphp": "^10.0",
+        "endroid/qr-code": "^4.8"
+    }
+}
